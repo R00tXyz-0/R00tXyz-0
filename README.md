@@ -2,7 +2,7 @@
 
 # Hi, I'm Othmane 👋
 
-### AI / ML Engineer • Full-Stack Developer • C/C++ Enthusiast
+### Full-Stack Developer • C/C++ Enthusiast
 
 </div>
 
